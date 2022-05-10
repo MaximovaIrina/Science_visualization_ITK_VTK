@@ -1,7 +1,7 @@
-## itk_vtk_science_visualization
-### Example of 3D processing of chest CT data
+### itk_vtk_science_visualization
+Example of 3D processing of chest CT data
 
-#
+
 
 **3D image processing tool**: [ITK](https://itk.org/Doxygen/html/index.html)   
 **3D image visualisation tool**: [VTK](https://vtk.org/)  
